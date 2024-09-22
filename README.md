@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, <br><br>I am Rushi Patel and currently pursuing my MS in Computer Science at Arizona State University. <br>I am dedicated to continuous learning and tackling complex challenges. <br><br>My technical expertise spans across languages like Python, JavaScript, C++, and Java, along with frameworks such as ReactJS, Node.js, and Spring Boot.
+Hello, <br><br>I am Rushi Patel and currently pursuing my MS in Computer Science at Arizona State University. <br>I am dedicated to continuous learning and tackling complex challenges. <br><br>My technical expertise spans across languages like Python, JavaScript, C++, and Java, along with frameworks and libraries such as ReactJS, Node.js, and Spring Boot.
 
 
 ## 🌐 Socials:
